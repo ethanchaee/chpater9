@@ -13,9 +13,7 @@ import android.media.AudioManager
 import android.media.MediaMetadata
 import android.media.MediaPlayer
 import android.media.session.MediaSession
-import android.os.Build
 import android.os.IBinder
-import androidx.annotation.RequiresApi
 import androidx.core.app.NotificationCompat
 import androidx.core.app.NotificationManagerCompat
 
